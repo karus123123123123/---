@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
+  button{
+    color:rgb(6, 18, 66);
+    background-color: rgb(94, 18, 194);
+    border-radius: 22px;
+  }
   body{
     display: flex;
     justify-content: center;
